@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emadlashkari" alt="emadlashkari" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [emadlashkari.me](https://emadlashkari.me)
+- 👨‍💻 All of my projects are available at [emadlashkari.me](https://emadlashkari.tech)
 
 - 📫 How to reach me **emadlashkari.82@gmail.com**
 
